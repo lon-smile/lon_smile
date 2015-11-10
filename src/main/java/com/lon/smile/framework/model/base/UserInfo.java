@@ -1,7 +1,7 @@
 package com.lon.smile.framework.model.base;
 
 public class UserInfo {
-    private Integer idA;
+    private Integer idC;
 
     public Integer getId() {
         return id;
